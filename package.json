@@ -1,9 +1,12 @@
 {
-    "name": "com.morzyolo.scenereference",
-    "displayName": "Scene Reference",
-    "author": { "name": "morzyolo", "url": "https://github.com/morzyolo" },
-    "version": "0.0.1",
-    "unity": "2019.1",
-    "license": "MIT",
-    "keywords": [ "scene reference" ]
+	"name": "com.morzyolo.sceneref",
+	"displayName": "Scene Ref",
+	"author": {
+		"name": "morzyolo"
+	},
+	"documentationUrl": "https://github.com/morzyolo/SceneRef",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"license": "MIT",
+	"keywords": [ "scene reference", "scene ref" ]
 }
